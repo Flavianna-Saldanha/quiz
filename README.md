@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Quiz de Conhecimentos Gerais 🎓
 
-## Getting Started
+Bem-vindo(a) ao repositório do Quiz de Conhecimentos Gerais! Este é um projeto simples e interativo que testa seu conhecimento através de perguntas diversas, com respostas e resultados ao final. Sinta-se à vontade para explorar, usar e adaptar para seus próprios quizzes.
 
-First, run the development server:
+## 🖥️ Sobre o Projeto  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este quiz foi criado com o objetivo de proporcionar uma experiência dinâmica e divertida para o usuário, permitindo responder perguntas de conhecimentos gerais, acompanhar o progresso e ver os resultados ao final do quiz. Também oferece a possibilidade de reiniciar e jogar novamente quantas vezes quiser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A interface é simples, moderna e responsiva, focada em usabilidade e clareza para o usuário.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Tecnologias Utilizadas  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **React**
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
 
-## Learn More
+## 🌟 Funcionalidades  
 
-To learn more about Next.js, take a look at the following resources:
+- Navegação por perguntas de forma sequencial.
+- Registro das respostas do usuário.
+- Exibição de resultados ao final do quiz.
+- Opção para reiniciar o quiz e tentar novamente.
+- Layout responsivo e acessível.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📬 Entre em Contato  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Caso tenha interesse em conversar sobre projetos, parcerias ou oportunidades, entre em contato comigo:  
 
-## Deploy on Vercel
+- **Email**: flaviannasaldanhadev@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/flavianna-saldanha/
+- **Link do site**: https://quiz-mauve-xi.vercel.app/
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Espero que goste do meu trabalho! 😊
